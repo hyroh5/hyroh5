@@ -24,8 +24,3 @@
   ### Game Engine
   <!--Unity-->
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="40" height="40"/>
-   
-  ## Algorithm Journey
-   [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=hyrlove5598)](https://solved.ac/hyrlove5598)
-</div>
