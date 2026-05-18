@@ -1,6 +1,6 @@
 <div align="center">
 
-# Roh Heeyoun
+# Roh Heeyoun · 노희윤
 
 ![Kyung Hee Univ](https://img.shields.io/badge/Kyung_Hee_Univ-Software_Convergence-A8C8E8?style=for-the-badge&logoColor=white)
 ![Track](https://img.shields.io/badge/Data_Science_Track-F2A7BB?style=for-the-badge)
@@ -34,6 +34,7 @@
 ![Git](https://img.shields.io/badge/Git-F2C4B0?style=for-the-badge&logo=git&logoColor=555555)
 ![Figma](https://img.shields.io/badge/Figma-F5B8D0?style=for-the-badge&logo=figma&logoColor=555555)
 ![Notion](https://img.shields.io/badge/Notion-D8D8D8?style=for-the-badge&logo=notion&logoColor=555555)
+
 ---
 
 ## 📬 Contact
