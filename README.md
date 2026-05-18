@@ -1,6 +1,6 @@
 <div align="center">
 
-# Roh Heeyoun · 노희윤
+# Roh Heeyoun
 
 ![Kyung Hee Univ](https://img.shields.io/badge/Kyung_Hee_Univ-Software_Convergence-4B9CDB?style=for-the-badge&logoColor=white)
 ![Track](https://img.shields.io/badge/Data_Science_Track-FF6B6B?style=for-the-badge)
