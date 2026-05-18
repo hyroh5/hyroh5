@@ -2,45 +2,36 @@
 
 # Roh Heeyoun
 
-![Kyung Hee Univ](https://img.shields.io/badge/Kyung_Hee_Univ-Software_Convergence-4B9CDB?style=for-the-badge&logoColor=white)
-![Track](https://img.shields.io/badge/Data_Science_Track-FF6B6B?style=for-the-badge)
+![Kyung Hee Univ](https://img.shields.io/badge/Kyung_Hee_Univ-Software_Convergence-A8C8E8?style=for-the-badge&logoColor=white)
+![Track](https://img.shields.io/badge/Data_Science_Track-F2A7BB?style=for-the-badge)
 
 </div>
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 **Language**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-B5D5F5?style=for-the-badge&logo=python&logoColor=555555)
+![JavaScript](https://img.shields.io/badge/JavaScript-FDE9A2?style=for-the-badge&logo=javascript&logoColor=555555)
+![TypeScript](https://img.shields.io/badge/TypeScript-A8C8E8?style=for-the-badge&logo=typescript&logoColor=555555)
+![C++](https://img.shields.io/badge/C++-B8D8C8?style=for-the-badge&logo=cplusplus&logoColor=555555)
+![C#](https://img.shields.io/badge/C%23-C8B8E8?style=for-the-badge&logo=csharp&logoColor=555555)
+![Dart](https://img.shields.io/badge/Dart-A8D8E8?style=for-the-badge&logo=dart&logoColor=555555)
 
 **Framework & Library**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-B8E8F5?style=for-the-badge&logo=react&logoColor=555555)
+![Flutter](https://img.shields.io/badge/Flutter-A8C8E8?style=for-the-badge&logo=flutter&logoColor=555555)
 
 **Game Engine**
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-D0D0D0?style=for-the-badge&logo=unity&logoColor=555555)
 
 ---
 
-## Stats
+## 📬 Contact
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyroh5&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyroh5&layout=compact&hide_border=true&theme=default" height="150"/>
-</div>
-
----
-
-## Contact
-
-[![Email](https://img.shields.io/badge/hyrlove5598@khu.ac.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyrlove5598@khu.ac.kr)
-[![Tistory](https://img.shields.io/badge/Tech_Blog-FF5544?style=for-the-badge&logo=tistory&logoColor=white)](https://hxxyxxn.tistory.com/)
+[![Email](https://img.shields.io/badge/hyrlove5598@khu.ac.kr-F2A7BB?style=for-the-badge&logo=gmail&logoColor=555555)](mailto:hyrlove5598@khu.ac.kr)
+[![Tistory](https://img.shields.io/badge/Tech_Blog-FDE9A2?style=for-the-badge&logo=tistory&logoColor=555555)](https://hxxyxxn.tistory.com/)
