@@ -9,7 +9,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Language**
 
@@ -31,7 +31,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hyroh5&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
@@ -40,7 +40,7 @@
 
 ---
 
-## 📬 Contact
+## Contact
 
 [![Email](https://img.shields.io/badge/hyrlove5598@khu.ac.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyrlove5598@khu.ac.kr)
 [![Tistory](https://img.shields.io/badge/Tech_Blog-FF5544?style=for-the-badge&logo=tistory&logoColor=white)](https://hxxyxxn.tistory.com/)
