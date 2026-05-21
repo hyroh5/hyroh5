@@ -14,6 +14,7 @@
 **Language**
 
 ![Python](https://img.shields.io/badge/Python-B5D5F5?style=for-the-badge&logo=python&logoColor=555555)
+![Java](https://img.shields.io/badge/Java-F2C4B0?style=for-the-badge&logo=openjdk&logoColor=555555)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FDE9A2?style=for-the-badge&logo=javascript&logoColor=555555)
 ![TypeScript](https://img.shields.io/badge/TypeScript-A8C8E8?style=for-the-badge&logo=typescript&logoColor=555555)
 ![C++](https://img.shields.io/badge/C++-B8D8C8?style=for-the-badge&logo=cplusplus&logoColor=555555)
@@ -24,6 +25,7 @@
 
 ![React](https://img.shields.io/badge/React-B8E8F5?style=for-the-badge&logo=react&logoColor=555555)
 ![Flutter](https://img.shields.io/badge/Flutter-A8C8E8?style=for-the-badge&logo=flutter&logoColor=555555)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-C8E6C9?style=for-the-badge&logo=springboot&logoColor=555555)
 
 **Game Engine**
 
