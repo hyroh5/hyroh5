@@ -51,7 +51,5 @@
 
 ---
 
-## Gitanimals
-
 [![gitanimals](https://render.gitanimals.org/farms/hyroh5)](https://github.com/git-goods/gitanimals)
 
