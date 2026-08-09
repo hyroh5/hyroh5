@@ -18,7 +18,12 @@
 
 ### Awards
 - 🏆 2026 MIXUP AI HACKATHON 우수상
-- 🏆 2025 SWCON Showcase 융합부문 우수상 
+- 🏆 2025 SWCON Showcase 융합부문 우수상
+
+### Contact
+
+[![Email](https://img.shields.io/badge/rohheeyoun32@gmail.com-81C784?style=flat-square&logo=gmail&logoColor=555555)](mailto:hyrlove5598@khu.ac.kr)
+[![Tistory](https://img.shields.io/badge/Tech_Blog-A5D6A7?style=flat-square&logo=tistory&logoColor=555555)](https://hxxyxxn.tistory.com/)
 
 ---
 
@@ -43,10 +48,3 @@
 **Game Engine**
 
 ![Unity](https://img.shields.io/badge/Unity-C8E6C9?style=flat-square&logo=unity&logoColor=555555)
-
----
-
-## Contact
-
-[![Email](https://img.shields.io/badge/rohheeyoun32@gmail.com-81C784?style=flat-square&logo=gmail&logoColor=555555)](mailto:hyrlove5598@khu.ac.kr)
-[![Tistory](https://img.shields.io/badge/Tech_Blog-A5D6A7?style=flat-square&logo=tistory&logoColor=555555)](https://hxxyxxn.tistory.com/)
