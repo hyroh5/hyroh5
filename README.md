@@ -17,7 +17,7 @@
 - IT 연합동아리 Tave 17기 프론트엔드 ![2026.03 ~ 2026.07](https://img.shields.io/badge/2026.03~2026.07-DCEDC8?style=flat-square)
 
 ### Awards
-- 🏆 2026 MIXUP AI HACKATHON 우수상 🏆
+- 🏆 2026 MIXUP AI HACKATHON 우수상
 - 🏆 2025 SWCON Showcase 융합부문 우수상 
 
 ---
