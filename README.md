@@ -12,7 +12,7 @@
 ## About me
 
 ### Activities
-- LG Aimers 9기 ![2026.06 ~ ing](https://img.shields.io/badge/2026.06~ing-81C784?style=flat-square)
+- LG Aimers 9기 ![2026.06 ~ ing](https://img.shields.io/badge/2026.06~ing-A5D6A7?style=flat-square)
 - 경희대학교 멋쟁이사자처럼 14기 백엔드 ![2026.03 ~ ing](https://img.shields.io/badge/2026.03~ing-A5D6A7?style=flat-square)
 - IT 연합동아리 Tave 17기 프론트엔드 ![2026.03 ~ 2026.07](https://img.shields.io/badge/2026.03~2026.07-DCEDC8?style=flat-square)
 
