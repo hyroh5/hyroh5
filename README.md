@@ -11,6 +11,9 @@
 
 ## About me
 
+Undergraduate Data Science student at Kyung Hee University.  
+Interested in applying data-driven insights to real-world problems, while studying full-stack development to broaden my skills.
+
 ### Activities
 - LG Aimers 9기 ![2026.06 ~ ing](https://img.shields.io/badge/2026.06~ing-A5D6A7?style=flat-square)
 - 경희대학교 멋쟁이사자처럼 14기 백엔드 ![2026.03 ~ ing](https://img.shields.io/badge/2026.03~ing-A5D6A7?style=flat-square)
